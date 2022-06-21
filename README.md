@@ -1,0 +1,2 @@
+# web-scraping-books
+A beginner web scraping project (https://www.kaggle.com/code/ahmedhas93/web-scraping-beginner-s-tutorial-text-clustering). It scrapes the details about each of the 1000 books on the site (https://books.toscrape.com/)(name , price , evaluation , description , ....). I then clean the data , extract all important features. Next I perform exploratory data analysis. Finally,  I model the data.
